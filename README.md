@@ -1,11 +1,13 @@
-Coursera [Developing Data Products](https://www.coursera.org/course/devdataprod) course project
+[Coursera Developing Data Products](https://www.coursera.org/course/devdataprod) course project]
 ==============================
 
 
 This application has been created as a course project for the first run 23 june 2016 of the Developing Data Products course.
  
 
-Your Shiny Application
+[1]. Your Shiny Application:
+
+This Shiny App is for searching and visulizating LEGO Sets information.
 
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 Deploy the application on Rstudio's shiny server
@@ -20,7 +22,7 @@ You must also include enough documentation so that a novice user could use your 
 The documentation should be at the Shiny website itself. Do not post to an external link.
 The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.
 
-Your Reproducible Pitch Presentation
+[2].Your Reproducible Pitch Presentation
 
 OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide) to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
 
